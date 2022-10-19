@@ -1,4 +1,4 @@
-# PowerBI - Sales Portfolio Project
+# PowerBI - Portfolio Project: Sales Overview
 ## Business Task
 - Visualize sales data from last 3 years. Include top customers and products with geography map. Present budget amount vs current sale.
 ## Dataset
