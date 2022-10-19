@@ -2,7 +2,7 @@
 ## Business Task
 - Visualize sales data from last 3 years. Include top customers and products with geography map. Present budget amount vs current sale.
 ## Dataset
-[Link](https://github.com/aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis)
+- [Link](https://github.com/aliahmad-1987/DataAnalystProjectFromScratch_PBI_SQL_SalesAnalysis)
 ## Tools
 - Microsoft SQL Server Software 
 - Excel
